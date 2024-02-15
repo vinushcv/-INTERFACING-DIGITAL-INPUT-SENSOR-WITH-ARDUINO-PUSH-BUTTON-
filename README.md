@@ -114,4 +114,5 @@ void loop()
 
 ![ex1robo](https://github.com/vinushcv/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/113975318/8c147e91-e275-4766-91fd-fdbcf14e5082)
 
-
+## RESULT:
+Program for interfacing digital input sensor with arduino push button is successfully implemented.
